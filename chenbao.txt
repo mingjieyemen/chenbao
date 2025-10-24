@@ -5,7 +5,7 @@
 "spider":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/2873EE0_773_wex_20251022150319875newMediaImage.png;md5;0a002e26ea6b9510a5d1a52511c10075",
 "wallpaper":"http://王二小放牛娃牛逼.999888987.xyz","logo":"https://s1.imagehub.cc/images/2025/04/22/396ca522ebeeda110c593932408ceb32.png",
 "sites":[
-{"key":"Douban","name":"🐮【晨宝2025年心想事成】🐮","type":3,"api":"csp_DoubanGuard","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729769265800/douban.json"},
+{"key":"Douban","name":"🐮【晨宝2025年心想事成】🐮","type":3,"api":"csp_DoubanGuard","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747636545646/douban.json"},
 {"key":"Doubana","name":"🐮【更新日期:20251021】🐮","type":3,"api":"csp_DoubanGuard","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747636545646/douban.json"},
 {"key":"Doubana","name":"⬇️【网盘类先扫码】⬇️","type":3,"api":"csp_DoubanGuard","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729769265800/douban.json"},
 {"key":"Wexconfig","name":"🐮通用类型┃配置中心🐮","type":3,"api":"csp_WexconfigGuard","searchable":0,"changeable":0,"indexs":0},
@@ -136,3 +136,4 @@
 "ads":["mozai.4gtv.tv","pv.vipwm.cc"],
 "lives":[
 {"name":"范明明","type":0,"url":"https://live.fanmingming.cn/tv/m3u/ipv6.m3u","playerType":1}]}
+
